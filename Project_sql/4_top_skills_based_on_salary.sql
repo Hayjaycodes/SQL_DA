@@ -14,7 +14,7 @@ WHERE job_title_short = 'Data Analyst' AND salary_year_avg IS NOT NULL --AND job
 GROUP BY skills
 ORDER BY avg_salary DESC
 
-LIMIT 25
+LIMIT 10
 
 
 

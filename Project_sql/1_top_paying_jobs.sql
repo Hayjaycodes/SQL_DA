@@ -1,10 +1,13 @@
 /*
 Question: What are the top paying data analyst jobs?
-- Identify the top 10  highest paying DATA analyst roles that are available remotely.
+- Identify the top 10  highest paying DATA analyst roles that are available in United Kingdom
+
 -Focuses on job postings with specified salaries( remove nulls).
--Why? Highlights the top paying opportunities for Datta Analysts, offering insights into  employment optimalization
+-Why? Highlights the top paying opportunities for Data Analysts, offering insights into  employment optimalization
 
 */
+
+
 -- Identify the top 10  highest paying DATA analyst roles that are available remotely.
 
 
